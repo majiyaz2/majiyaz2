@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently learning **Three.js, React and Springboot**  
   
-- 👨‍💻 All of my projects are available at [hhttps://www.datacamp.com/portfolio/majiyaz2](hhttps://www.datacamp.com/portfolio/majiyaz2)  
+- 👨‍💻 All of my projects are available at [[Portfolio](https://andileportfolio.netlify.app/)]
   
 - 💬 Ask me about **Python, Javascript and Java**  
   
