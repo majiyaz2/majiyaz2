@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andile Mhlongo</h1>  
-<h3 align="center">I'm a passionate full stack developer hailing from Johannesburg, South Africa. With a keyboard as my paintbrush and logic as my palette, I craft digital solutions that bridge the gap between imagination and reality.</h3>  
+<h3 align="center">I'm a passionate full stack developer hailing from Pietermaritzburg, South Africa. With a keyboard as my paintbrush and logic as my palette, I craft digital solutions that bridge the gap between imagination and reality.</h3>  
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majiyaz2&label=Profile%20views&color=0e75b6&style=flat" alt="majiyaz2" /> </p>  
   
